@@ -1,0 +1,11 @@
+[project]
+name = "crypto-trending-mcp"
+version = "0.1.0"
+description = "An MCP server that tracks and monitors the latest trending tokens on CoinGecko."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "html2text>=2025.4.15",
+    "mcp[cli]>=1.6.0",
+    "pytest-playwright>=0.7.0",
+]
