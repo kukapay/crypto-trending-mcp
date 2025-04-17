@@ -34,7 +34,7 @@ An MCP server that tracks and monitors the latest trending tokens on CoinGecko, 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/crypto-trending-mcp.git
+   git clone https://github.com/kukapay/crypto-trending-mcp.git
    cd crypto-trending-mcp
    ```
 
@@ -46,16 +46,6 @@ An MCP server that tracks and monitors the latest trending tokens on CoinGecko, 
    ```
 
 ## Usage
-
-### Running the Server
-
-Start the server in development mode to explore tools and prompts via the MCP Inspector:
-
-```bash
-uv run mcp dev server.py
-```
-
-This opens a web interface at `http://localhost:8000` (or similar) to interact with the server.
 
 ### Integrating with Claude Desktop
 
