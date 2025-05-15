@@ -23,6 +23,14 @@ An MCP server that tracks and monitors the latest trending tokens on CoinGecko, 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Crypto Trending Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/crypto-trending-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/crypto-trending-mcp --client claude
+```
+
 ### Prerequisites
 
 - **Python 3.10+**
