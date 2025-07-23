@@ -2,6 +2,10 @@
 
 An MCP server that tracks and monitors the latest trending tokens on CoinGecko, providing real-time insights into the most popular cryptocurrencies.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/crypto-trending-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/crypto-trending-mcp/badge" alt="crypto-trending-mcp MCP server" />
+</a>
+
 [![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
 ![GitHub License](https://img.shields.io/github/license/kukapay/crypto-trending-mcp)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
